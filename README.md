@@ -1,2 +1,1 @@
-# fabled.lol
-repository for fabled.lol website
+# 4x14.github.io
